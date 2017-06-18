@@ -1,4 +1,4 @@
-package category;
+package main.java.category;
 
 /**
  * Created by angela on 17/6/17.
