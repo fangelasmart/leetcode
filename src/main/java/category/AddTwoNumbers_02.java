@@ -1,6 +1,9 @@
 package main.java.category;
 
 /**
+ * 两个链表相加，大于0则进位
+ * Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
+ * Output: 7 -> 0 -> 8
  * Created by angela on 17/6/18.
  */
 public class AddTwoNumbers_02 {
