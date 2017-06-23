@@ -1,6 +1,7 @@
 package main.java.category;
 
 /**
+ * 反转数字，考虑溢出
  * Created by angela on 17/6/18.
  */
 public class ReverseInteger_07 {
